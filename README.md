@@ -1,5 +1,4 @@
 # SPORTVIEW
-# Sport View
 
 ## 1. Integrantes
 - **Ana Beatriz F. Sousa** — RM 566313  
